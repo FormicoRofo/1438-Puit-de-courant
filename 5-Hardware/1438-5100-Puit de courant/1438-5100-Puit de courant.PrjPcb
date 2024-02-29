@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=AMNWWMCE
 
 [Document5]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=Dissipation de puissance.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,7 +203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DVRPJQAJ
 
 [Document10]
-DocumentPath=Sheet2.SchDoc
+DocumentPath=Schéma bloc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

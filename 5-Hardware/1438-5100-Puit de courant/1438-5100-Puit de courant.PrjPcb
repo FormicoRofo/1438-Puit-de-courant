@@ -254,80 +254,80 @@ GenerateClassCluster=0
 DocumentUniqueId=KARKOHUI
 
 [Parameter1]
-Name=AsyNumber
-Value=1438.5000.00
+Name=SchTitle
+Value=Puit de courant
 
 [Parameter2]
-Name=BomCheckedBy
-Value=-
+Name=SchNumber
+Value=1438.5200.00
 
 [Parameter3]
-Name=BomCheckedDate
-Value=-
+Name=SchDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter4]
-Name=BomDrawnBy
+Name=SchDrawnBy
 Value=AVR
 
 [Parameter5]
-Name=BomDrawnDate
-Value=YYYY-MM-DD
+Name=SchCheckedDate
+Value=-
 
 [Parameter6]
-Name=BomNumber
-Value=1438.5600.00
+Name=SchCheckedBy
+Value=-
 
 [Parameter7]
-Name=BomTitle
+Name=PcbTitle
 Value=Puit de courant
 
 [Parameter8]
-Name=PcbCheckedBy
-Value=-
+Name=PcbNumber
+Value=1438.5100.00
 
 [Parameter9]
-Name=PcbCheckedDate
-Value=-
+Name=PcbDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter10]
 Name=PcbDrawnBy
 Value=AVR
 
 [Parameter11]
-Name=PcbDrawnDate
-Value=YYYY-MM-DD
+Name=PcbCheckedDate
+Value=-
 
 [Parameter12]
-Name=PcbNumber
-Value=1438.5100.00
+Name=PcbCheckedBy
+Value=-
 
 [Parameter13]
-Name=PcbTitle
+Name=BomTitle
 Value=Puit de courant
 
 [Parameter14]
-Name=SchCheckedBy
-Value=-
+Name=BomNumber
+Value=1438.5600.00
 
 [Parameter15]
-Name=SchCheckedDate
-Value=-
+Name=BomDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter16]
-Name=SchDrawnBy
+Name=BomDrawnBy
 Value=AVR
 
 [Parameter17]
-Name=SchDrawnDate
-Value=YYYY-MM-DD
+Name=BomCheckedDate
+Value=-
 
 [Parameter18]
-Name=SchNumber
-Value=1438.5200.00
+Name=BomCheckedBy
+Value=-
 
 [Parameter19]
-Name=SchTitle
-Value=Puit de courant
+Name=AsyNumber
+Value=1438.5000.00
 
 [Configuration1]
 Name=Sources

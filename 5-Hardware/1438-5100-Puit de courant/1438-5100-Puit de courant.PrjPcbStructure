@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Schéma bloc.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Schéma bloc.SchDoc|Designator=Dissipation de puissance|SchDesignator=Dissipation de puissance|FileName=Dissipation de puissance.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Dissipation de puissance.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Schéma bloc.SchDoc|Designator=Pompe de charge|SchDesignator=Pompe de charge|FileName=Pompe de charge.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Pompe de charge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Schéma bloc.SchDoc|Designator=Timer 555|SchDesignator=Timer 555|FileName=Timer 555.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Timer 555.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

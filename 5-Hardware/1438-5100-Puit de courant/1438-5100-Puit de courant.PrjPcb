@@ -135,7 +135,75 @@ GenerateClassCluster=0
 DocumentUniqueId=WOTSLPXT
 
 [Document6]
-DocumentPath=..\..\..\..\..\..\Downloads\Components - 29.02.24 - 11.06.PcbLib
+DocumentPath=Libraries\LL4448.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OYMWZUPU
+
+[Document7]
+DocumentPath=Libraries\BZV55C5V6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBXNHHJN
+
+[Document8]
+DocumentPath=..\..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-8775-2ED8C82777C7}\VaultEditCache\718FEC0B-4DC6-4100-9A35-B84E6CAF298F\Released\New Component.CmpLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=Libraries\SOT-23.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ARXEKYGH
+
+[Document10]
+DocumentPath=Libraries\Trimpot.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +219,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BJRTGSMQ
 
-[Document7]
+[Document11]
+DocumentPath=Libraries\LM4041.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HSJGFYXF
+
+[Document12]
 DocumentPath=Libraries\NEOHM 1W ROX1S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,8 +253,76 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMBKZISD
 
-[Document8]
-DocumentPath=..\..\..\..\..\..\Downloads\Bourns trimmer 200R.SchLib
+[Document13]
+DocumentPath=Libraries\TLC555CD.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DFXZHOBX
+
+[Document14]
+DocumentPath=Libraries\220uF 16V.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IRPMRWMJ
+
+[Document15]
+DocumentPath=Libraries\LL4448.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRJJAHAO
+
+[Document16]
+DocumentPath=Libraries\BZV55-C5V6.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CKNWETVS
+
+[Document17]
+DocumentPath=Libraries\Bourns trimmer 200R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,8 +338,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPYBRXYF
 
-[Document9]
-DocumentPath=Libraries\NEOHM 1W.SchLib
+[Document18]
+DocumentPath=Libraries\NEOHM 1W 3R3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -202,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJULYAQW
 
-[Document10]
+[Document19]
 DocumentPath=Libraries\INFINEON IRLR3114ZTRPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KZUZYFLR
 
-[Document11]
+[Document20]
 DocumentPath=Libraries\DPAK228P991X238-3M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVRPJQAJ
 
-[Document12]
+[Document21]
 DocumentPath=Schéma bloc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVDUMNOJ
 
-[Document13]
+[Document22]
 DocumentPath=Timer 555.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLSDETAI
 
-[Document14]
+[Document23]
 DocumentPath=Pompe de charge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +440,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KARKOHUI
 
-[Document15]
+[Document24]
+DocumentPath=Libraries\LM4041.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZVFKOYGJ
+
+[Document25]
 DocumentPath=Libraries\LM317T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +474,75 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLUUZXED
 
-[Document16]
+[Document26]
+DocumentPath=Libraries\220uF 16V.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QDHREDLN
+
+[Document27]
+DocumentPath=Libraries\TLC555CD.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KXAUDJXI
+
+[Document28]
+DocumentPath=Libraries\BC857.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CEHWMFUP
+
+[Document29]
+DocumentPath=Libraries\BC857.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FTCGFTKX
+
+[Document30]
 DocumentPath=Libraries\BD910.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,81 +559,132 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRYGIVZI
 
+[Document31]
+DocumentPath=Libraries\IRLR7843.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UMBOHAWP
+
+[Document32]
+DocumentPath=WAKEFIELD THERMAL 678-39-C element for BOM.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WQIQQSCK
+
+[Document33]
+DocumentPath=Libraries\BC847C.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XOQKIXGQ
+
 [Parameter1]
-Name=SchTitle
-Value=Puit de courant
+Name=AsyNumber
+Value=1438.5000.00
 
 [Parameter2]
-Name=SchNumber
-Value=1438.5200.00
+Name=BomCheckedBy
+Value=-
 
 [Parameter3]
-Name=SchDrawnDate
-Value=YYYY-MM-DD
+Name=BomCheckedDate
+Value=-
 
 [Parameter4]
-Name=SchDrawnBy
+Name=BomDrawnBy
 Value=AVR
 
 [Parameter5]
-Name=SchCheckedDate
-Value=-
+Name=BomDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter6]
-Name=SchCheckedBy
-Value=-
+Name=BomNumber
+Value=1438.5600.00
 
 [Parameter7]
-Name=PcbTitle
+Name=BomTitle
 Value=Puit de courant
 
 [Parameter8]
-Name=PcbNumber
-Value=1438.5100.00
+Name=PcbCheckedBy
+Value=-
 
 [Parameter9]
-Name=PcbDrawnDate
-Value=YYYY-MM-DD
+Name=PcbCheckedDate
+Value=-
 
 [Parameter10]
 Name=PcbDrawnBy
 Value=AVR
 
 [Parameter11]
-Name=PcbCheckedDate
-Value=-
+Name=PcbDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter12]
-Name=PcbCheckedBy
-Value=-
+Name=PcbNumber
+Value=1438.5100.00
 
 [Parameter13]
-Name=BomTitle
+Name=PcbTitle
 Value=Puit de courant
 
 [Parameter14]
-Name=BomNumber
-Value=1438.5600.00
+Name=SchCheckedBy
+Value=-
 
 [Parameter15]
-Name=BomDrawnDate
-Value=YYYY-MM-DD
+Name=SchCheckedDate
+Value=-
 
 [Parameter16]
-Name=BomDrawnBy
+Name=SchDrawnBy
 Value=AVR
 
 [Parameter17]
-Name=BomCheckedDate
-Value=-
+Name=SchDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter18]
-Name=BomCheckedBy
-Value=-
+Name=SchNumber
+Value=1438.5200.00
 
 [Parameter19]
-Name=AsyNumber
-Value=1438.5000.00
+Name=SchTitle
+Value=Puit de courant
 
 [Configuration1]
 Name=Sources

@@ -135,6 +135,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WOTSLPXT
 
 [Document6]
+DocumentPath=Libraries\Pot250K.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IDJXIVLY
+
+[Document7]
 DocumentPath=Libraries\LL4448.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYMWZUPU
 
-[Document7]
+[Document8]
 DocumentPath=Libraries\BZV55C5V6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,23 +184,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
-
-[Document8]
-DocumentPath=..\..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-8775-2ED8C82777C7}\VaultEditCache\718FEC0B-4DC6-4100-9A35-B84E6CAF298F\Released\New Component.CmpLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Document9]
 DocumentPath=Libraries\SOT-23.PcbLib
@@ -288,6 +288,23 @@ GenerateClassCluster=0
 DocumentUniqueId=IRPMRWMJ
 
 [Document15]
+DocumentPath=Libraries\Pot250K.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMQDWVCY
+
+[Document16]
 DocumentPath=Libraries\LL4448.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CRJJAHAO
 
-[Document16]
+[Document17]
 DocumentPath=Libraries\BZV55-C5V6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CKNWETVS
 
-[Document17]
+[Document18]
 DocumentPath=Libraries\Bourns trimmer 200R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPYBRXYF
 
-[Document18]
+[Document19]
 DocumentPath=Libraries\NEOHM 1W 3R3.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DJULYAQW
 
-[Document19]
+[Document20]
 DocumentPath=Libraries\INFINEON IRLR3114ZTRPBF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KZUZYFLR
 
-[Document20]
+[Document21]
 DocumentPath=Libraries\DPAK228P991X238-3M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVRPJQAJ
 
-[Document21]
+[Document22]
 DocumentPath=Schéma bloc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVDUMNOJ
 
-[Document22]
+[Document23]
 DocumentPath=Timer 555.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLSDETAI
 
-[Document23]
+[Document24]
 DocumentPath=Pompe de charge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KARKOHUI
 
-[Document24]
+[Document25]
 DocumentPath=Libraries\LM4041.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZVFKOYGJ
 
-[Document25]
+[Document26]
 DocumentPath=Libraries\LM317T.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLUUZXED
 
-[Document26]
+[Document27]
 DocumentPath=Libraries\220uF 16V.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDHREDLN
 
-[Document27]
+[Document28]
 DocumentPath=Libraries\TLC555CD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KXAUDJXI
 
-[Document28]
+[Document29]
 DocumentPath=Libraries\BC857.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CEHWMFUP
 
-[Document29]
+[Document30]
 DocumentPath=Libraries\BC857.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTCGFTKX
 
-[Document30]
+[Document31]
 DocumentPath=Libraries\BD910.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -559,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRYGIVZI
 
-[Document31]
+[Document32]
 DocumentPath=Libraries\IRLR7843.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMBOHAWP
 
-[Document32]
+[Document33]
 DocumentPath=WAKEFIELD THERMAL 678-39-C element for BOM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -593,7 +610,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WQIQQSCK
 
-[Document33]
+[Document34]
 DocumentPath=Libraries\BC847C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

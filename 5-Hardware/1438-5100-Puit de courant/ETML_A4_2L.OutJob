@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=ETML_A4_2L.OutJob
 Description=
-TargetOutputMedium=3D STEP
+TargetOutputMedium=Bill of Materials
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=\\SETMSEB2K190004.etmlnet.local\ETML-SEB-Print
+TargetPrinter=\\prt00001\ETML-SEB-Print
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -175,7 +175,7 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
@@ -190,7 +190,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration3_Name1=ColumnNameFormat
 Configuration3_Item1=CaptionAsName
 Configuration3_Name2=General
-Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=A92EF6BC-7A6C-412F-B87B-65195FA9B694|TemplateItemGuid=333D54CF-B60D-4F6D-93A5-96563F04A7C6|TemplateRevisionGuid=FDE6E8D1-1330-4138-B8F7-D1505449EA38|BatchMode=5|FormWidth=956|FormHeight=659|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration3_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=A92EF6BC-7A6C-412F-B87B-65195FA9B694|TemplateItemGuid=333D54CF-B60D-4F6D-93A5-96563F04A7C6|TemplateRevisionGuid=EF1B8B26-F3E6-42C6-A314-39FA4F782C76|BatchMode=5|FormWidth=956|FormHeight=659|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=CHF|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
 Configuration3_Name3=GroupOrder
 Configuration3_Item3=Comment=True|Footprint=True
 Configuration3_Name4=OutputConfigurationParameter1
@@ -270,7 +270,7 @@ OutputName6=Export STEP
 OutputCategory6=Export
 OutputDocumentPath6=
 OutputVariantName6=
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -482,7 +482,7 @@ ShowComponentParameters5=1
 GlobalBookmarks5=0
 PDFACompliance5=Disabled
 PDFVersion5=Default
-OutputFilePath6=C:\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-8775-2ED8C82777C7}\VaultEditCache\5469C86F-6355-4696-8434-2AD3205BB8F7\Released\.\
+OutputFilePath6=C:\Users\alyvasseur\Education Vaud\ETML_FLO-22-24_Teams - Vasseur\DAT\1438\5-Hardware\1438-5100-Puit de courant\.\
 ReleaseManaged6=0
 OutputBasePath6=.\
 OutputPathMedia6=
@@ -544,7 +544,7 @@ RelativeOutputPath4=C:\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-87
 OpenOutputs4=1
 RelativeOutputPath5=C:\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-8775-2ED8C82777C7}\VaultEditCache\5469C86F-6355-4696-8434-2AD3205BB8F7\Released\.\ETML_A4_2L_3D.PDF
 OpenOutputs5=1
-RelativeOutputPath6=C:\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-8775-2ED8C82777C7}\VaultEditCache\5469C86F-6355-4696-8434-2AD3205BB8F7\Released\.\
+RelativeOutputPath6=C:\Users\alyvasseur\Education Vaud\ETML_FLO-22-24_Teams - Vasseur\DAT\1438\5-Hardware\1438-5100-Puit de courant\.\
 OpenOutputs6=1
 AddToProject6=1
 TimestampFolder6=0

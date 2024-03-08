@@ -577,23 +577,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KXAUDJXI
 
 [Document32]
-DocumentPath=Libraries\BC857.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CEHWMFUP
-
-[Document33]
 DocumentPath=Libraries\BC857.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,7 +593,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTCGFTKX
 
-[Document34]
+[Document33]
 DocumentPath=Libraries\BD910.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,6 +609,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRYGIVZI
+
+[Document34]
+DocumentPath=Libraries\BC857.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CEHWMFUP
 
 [Document35]
 DocumentPath=Libraries\IRLR7843.SchLib
@@ -712,81 +712,85 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARWHVCFY
 
+[GeneratedDocument1]
+DocumentPath=https://eduvaud.sharepoint.com/sites/ETML_FLO-22-24_Teams/Documents partages/Partages/Vasseur/DAT/1438/5-Hardware/1438-5100-Puit de courant/1438-5100-Puit de courant_BOM.xlsx
+DItemRevisionGUID=
+
 [Parameter1]
-Name=AsyNumber
-Value=1438.5000.00
+Name=SchTitle
+Value=Puit de courant
 
 [Parameter2]
-Name=BomCheckedBy
-Value=-
+Name=SchNumber
+Value=1438.5200.00
 
 [Parameter3]
-Name=BomCheckedDate
-Value=-
+Name=SchDrawnDate
+Value=2024-03-08
 
 [Parameter4]
-Name=BomDrawnBy
+Name=SchDrawnBy
 Value=AVR
 
 [Parameter5]
-Name=BomDrawnDate
-Value=YYYY-MM-DD
+Name=SchCheckedDate
+Value=-
 
 [Parameter6]
-Name=BomNumber
-Value=1438.5600.00
+Name=SchCheckedBy
+Value=-
 
 [Parameter7]
-Name=BomTitle
+Name=PcbTitle
 Value=Puit de courant
 
 [Parameter8]
-Name=PcbCheckedBy
-Value=-
+Name=PcbNumber
+Value=1438.5100.00
 
 [Parameter9]
-Name=PcbCheckedDate
-Value=-
+Name=PcbDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter10]
 Name=PcbDrawnBy
 Value=AVR
 
 [Parameter11]
-Name=PcbDrawnDate
-Value=YYYY-MM-DD
+Name=PcbCheckedDate
+Value=-
 
 [Parameter12]
-Name=PcbNumber
-Value=1438.5100.00
+Name=PcbCheckedBy
+Value=-
 
 [Parameter13]
-Name=PcbTitle
+Name=BomTitle
 Value=Puit de courant
 
 [Parameter14]
-Name=SchCheckedBy
-Value=-
+Name=BomNumber
+Value=1438.5600.00
 
 [Parameter15]
-Name=SchCheckedDate
-Value=-
+Name=BomDrawnDate
+Value=2024-03-08
 
 [Parameter16]
-Name=SchDrawnBy
+Name=BomDrawnBy
 Value=AVR
 
 [Parameter17]
-Name=SchDrawnDate
-Value=YYYY-MM-DD
+Name=BomCheckedDate
+Value=-
 
 [Parameter18]
-Name=SchNumber
-Value=1438.5200.00
+Name=BomCheckedBy
+Value=-
 
 [Parameter19]
-Name=SchTitle
-Value=Puit de courant
+Name=AsyNumber
+Value=1438.5000.00
 
 [Configuration1]
 Name=Sources

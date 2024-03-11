@@ -645,23 +645,6 @@ GenerateClassCluster=0
 DocumentUniqueId=UMBOHAWP
 
 [Document36]
-DocumentPath=WAKEFIELD THERMAL 678-39-C element for BOM.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WQIQQSCK
-
-[Document37]
 DocumentPath=Libraries\BC847C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -678,7 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XOQKIXGQ
 
-[Document38]
+[Document37]
 DocumentPath=Libraries\HLMP-1790.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -695,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWHUNWMG
 
-[Document39]
+[Document38]
 DocumentPath=Libraries\Solder bridge.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -712,85 +695,136 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARWHVCFY
 
+[Document39]
+DocumentPath=Libraries\WAKEFIELD THERMAL 678-39-C element for BOM.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WQIQQSCK
+
+[Document40]
+DocumentPath=Libraries\Graisse thermique.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRAGQONF
+
+[Document41]
+DocumentPath=Libraries\Sticker Surface chaude ISO7010.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XRZNQUBZ
+
 [GeneratedDocument1]
 DocumentPath=https://eduvaud.sharepoint.com/sites/ETML_FLO-22-24_Teams/Documents partages/Partages/Vasseur/DAT/1438/5-Hardware/1438-5100-Puit de courant/1438-5100-Puit de courant_BOM.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SchTitle
-Value=Puit de courant
+Name=AsyNumber
+Value=1438.5000.00
 
 [Parameter2]
-Name=SchNumber
-Value=1438.5200.00
+Name=BomCheckedBy
+Value=-
 
 [Parameter3]
-Name=SchDrawnDate
-Value=2024-03-08
+Name=BomCheckedDate
+Value=-
 
 [Parameter4]
-Name=SchDrawnBy
+Name=BomDrawnBy
 Value=AVR
 
 [Parameter5]
-Name=SchCheckedDate
-Value=-
+Name=BomDrawnDate
+Value=2024-03-08
 
 [Parameter6]
-Name=SchCheckedBy
-Value=-
+Name=BomNumber
+Value=1438.5600.00
 
 [Parameter7]
-Name=PcbTitle
+Name=BomTitle
 Value=Puit de courant
 
 [Parameter8]
-Name=PcbNumber
-Value=1438.5100.00
+Name=PcbCheckedBy
+Value=-
 
 [Parameter9]
-Name=PcbDrawnDate
-Value=YYYY-MM-DD
+Name=PcbCheckedDate
+Value=-
 
 [Parameter10]
 Name=PcbDrawnBy
 Value=AVR
 
 [Parameter11]
-Name=PcbCheckedDate
-Value=-
+Name=PcbDrawnDate
+Value=YYYY-MM-DD
 
 [Parameter12]
-Name=PcbCheckedBy
-Value=-
+Name=PcbNumber
+Value=1438.5100.00
 
 [Parameter13]
-Name=BomTitle
+Name=PcbTitle
 Value=Puit de courant
 
 [Parameter14]
-Name=BomNumber
-Value=1438.5600.00
+Name=SchCheckedBy
+Value=-
 
 [Parameter15]
-Name=BomDrawnDate
-Value=2024-03-08
+Name=SchCheckedDate
+Value=-
 
 [Parameter16]
-Name=BomDrawnBy
+Name=SchDrawnBy
 Value=AVR
 
 [Parameter17]
-Name=BomCheckedDate
-Value=-
+Name=SchDrawnDate
+Value=2024-03-08
 
 [Parameter18]
-Name=BomCheckedBy
-Value=-
+Name=SchNumber
+Value=1438.5200.00
 
 [Parameter19]
-Name=AsyNumber
-Value=1438.5000.00
+Name=SchTitle
+Value=Puit de courant
 
 [Configuration1]
 Name=Sources

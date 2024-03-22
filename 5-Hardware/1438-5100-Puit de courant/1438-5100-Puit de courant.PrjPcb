@@ -50,40 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Libraries\PCB Library Documents\Trimpot.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BJRTGSMQ
-
-[Document2]
-DocumentPath=Libraries\PCB Library Documents\TLC555CD.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DFXZHOBX
-
-[Document3]
 DocumentPath=Libraries\PCB Library Documents\SOT-23.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ARXEKYGH
 
-[Document4]
+[Document2]
 DocumentPath=Libraries\PCB Library Documents\Pot250K.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IDJXIVLY
 
-[Document5]
+[Document3]
 DocumentPath=Libraries\PCB Library Documents\NEOHM 1W ROX1S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,24 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMBKZISD
 
-[Document6]
-DocumentPath=Libraries\PCB Library Documents\LM4041.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HSJGFYXF
-
-[Document7]
+[Document4]
 DocumentPath=Libraries\PCB Library Documents\LM2662M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDUQFWOY
 
-[Document8]
+[Document5]
 DocumentPath=Libraries\PCB Library Documents\LL4448.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OYMWZUPU
 
-[Document9]
+[Document6]
 DocumentPath=Libraries\PCB Library Documents\LED3mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDODZFQW
 
-[Document10]
+[Document7]
 DocumentPath=Libraries\PCB Library Documents\DPAK228P991X238-3M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,24 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DVRPJQAJ
 
-[Document11]
-DocumentPath=Libraries\PCB Library Documents\BC857.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FTCGFTKX
-
-[Document12]
+[Document8]
 DocumentPath=Libraries\PCB Library Documents\BZV55C5V6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBXNHHJN
 
-[Document13]
+[Document9]
 DocumentPath=Libraries\PCB Library Documents\220uF 16V.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRPMRWMJ
 
-[Document14]
+[Document10]
 DocumentPath=..\..\..\..\..\..\..\..\ProgramData\Altium\Altium Designer {A803CC6B-B8D4-4B26-8775-2ED8C82777C7}\VaultEditCache\FAD32D46-A987-4E2A-A2AA-38392A8B2C51\Released\New Component.CmpLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document11]
 DocumentPath=Libraries\Schematic library Documents\Custom components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DITFJRFF
 
-[Document16]
+[Document12]
 DocumentPath=ETML_A4_2L.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document13]
 DocumentPath=ETML_A4_2L.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXOLPLVX
 
-[Document18]
+[Document14]
 DocumentPath=ASYDrawings.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RDFYONWT
 
-[Document19]
+[Document15]
 DocumentPath=PCBDrawings.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMNWWMCE
 
-[Document20]
+[Document16]
 DocumentPath=Dissipation de puissance.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WOTSLPXT
 
-[Document21]
+[Document17]
 DocumentPath=Schéma bloc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVDUMNOJ
 
-[Document22]
+[Document18]
 DocumentPath=Timer 555.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VLSDETAI
 
-[Document23]
+[Document19]
 DocumentPath=Pompe de charge.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KARKOHUI
 
-[Document24]
+[Document20]
 DocumentPath=TO220 With wakefield thermal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,6 +388,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKXQHYLL
+
+[Document21]
+DocumentPath=Libraries\Custom components.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LPXHVSSF
 
 [GeneratedDocument1]
 DocumentPath=https://eduvaud.sharepoint.com/sites/ETML_FLO-22-24_Teams/Documents partages/Partages/Vasseur/DAT/1438/5-Hardware/1438-5100-Puit de courant/1438-5100-Puit de courant_BOM.xlsx

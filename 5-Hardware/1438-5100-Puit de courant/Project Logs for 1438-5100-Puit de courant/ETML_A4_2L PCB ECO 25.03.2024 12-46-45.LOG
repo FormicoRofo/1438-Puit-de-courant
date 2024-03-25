@@ -1,0 +1,10 @@
+Added Component: Designator=P2(Sticker surface chaude)
+Add component (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "PIC W017-TRI 015-PE-SHEET/1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "302-20-433"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Price 1"; Value = "0.246"; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Added Member To Class: ClassName=Schéma bloc Member=Component P2 Sticker
+Add Class Member: Failed to add class member : Component W1 WLPF20

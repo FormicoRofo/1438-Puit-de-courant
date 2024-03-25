@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC7_1 Pin=R28-1
+Removed Pin From Net: NetName=NetR28_2 Pin=R28-2
+Removed Pin From Net: NetName=NetR24_1 Pin=R28-3
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=NetC15_2 Pin=R45-2
+Removed Pin From Net: NetName=NetR43_1 Pin=R45-3
+Change Component Footprint: Designator=R28 Old Footprint=DBZ0003A_M New Footprint=SOT90P240X110-3M
+Change Component Footprint: Designator=R45 Old Footprint=DBZ0003A_M New Footprint=SOT90P240X110-3M
+Added Pin To Net: NetName=NetR24_1 Pin=R28-1
+Added Pin To Net: NetName=NetC7_1 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=R28-3
+Added Pin To Net: NetName=NetR43_1 Pin=R45-1
+Added Pin To Net: NetName=GND Pin=R45-2
+Added Pin To Net: NetName=NetC15_2 Pin=R45-3
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR28_3
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component W1 WLPF20

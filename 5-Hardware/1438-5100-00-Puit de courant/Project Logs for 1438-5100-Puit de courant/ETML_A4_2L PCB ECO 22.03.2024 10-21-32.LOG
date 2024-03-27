@@ -1,0 +1,69 @@
+Change Footprint: Cannot match pads with new footprint in component :R32 Footprint:FP-3296W-MFG
+Added Component: Designator=C7(NIC-CAPA2-6.3X7.7_V)
+Added Component: Designator=K4(FP-D0008A-IPC_B)
+Added Component: Designator=K9(D0008A_M)
+Added Component: Designator=K10(ONSC-SOT-23-3-318-08_V)
+Added Component: Designator=R20(FP-6_560-5005_01-4-MFG)
+Added Component: Designator=R25(FP-6_560-5005_01-4-MFG)
+Added Component: Designator=R28(DBZ0003A_M)
+Added Component: Designator=R42(FP-6_560-5005_01-4-MFG)
+Added Component: Designator=R45(DBZ0003A_M)
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin K1-1
+Add Pin To Net: Unknown Pin: Pin K1-2
+Add Pin To Net: Unknown Pin: Pin K1-3
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-3
+Add Pin To Net: Unknown Pin: Pin K4-1
+Add Pin To Net: Unknown Pin: Pin K4-2
+Add Pin To Net: Unknown Pin: Pin K4-3
+Add Pin To Net: Unknown Pin: Pin K4-4
+Add Pin To Net: Unknown Pin: Pin K4-5
+Add Pin To Net: Unknown Pin: Pin K4-6
+Add Pin To Net: Unknown Pin: Pin K4-8
+Add Pin To Net: Unknown Pin: Pin K9-1
+Add Pin To Net: Unknown Pin: Pin K9-2
+Add Pin To Net: Unknown Pin: Pin K9-3
+Add Pin To Net: Unknown Pin: Pin K9-4
+Add Pin To Net: Unknown Pin: Pin K9-5
+Add Pin To Net: Unknown Pin: Pin K9-6
+Add Pin To Net: Unknown Pin: Pin K9-8
+Add Pin To Net: Unknown Pin: Pin K10-1
+Add Pin To Net: Unknown Pin: Pin K10-2
+Add Pin To Net: Unknown Pin: Pin K10-3
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R28-3
+Add Pin To Net: Unknown Pin: Pin R42-1
+Add Pin To Net: Unknown Pin: Pin R42-2
+Add Pin To Net: Unknown Pin: Pin R45-1
+Add Pin To Net: Unknown Pin: Pin R45-2
+Add Pin To Net: Unknown Pin: Pin R45-3
+Add Pin To Net: Unknown Pin: Pin X8-1
+Add Pin To Net: Unknown Pin: Pin X8-2
+Add Pin To Net: Unknown Pin: Pin X9-1
+Add Pin To Net: Unknown Pin: Pin X9-2
+Change Net Name : Old Net Name=NetR28_3 New Net Name=NetR28_2
+Add Class Member: Failed to add class member : Component C7 220uF 16V
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component K1 BD912
+Add Class Member: Failed to add class member : Component K2 LM317T
+Add Class Member: Failed to add class member : Component K4 TLC555CDR
+Add Class Member: Failed to add class member : Component K9 LM2662M
+Add Class Member: Failed to add class member : Component K10 BC857CLT1G
+Add Class Member: Failed to add class member : Component P2 Sticker
+Add Class Member: Failed to add class member : Component R20 LL4448-GS08
+Add Class Member: Failed to add class member : Component R25 LL4448-GS08
+Add Class Member: Failed to add class member : Component R28 LM4041CIM3-ADJ
+Add Class Member: Failed to add class member : Component R42 LL4448-GS08
+Add Class Member: Failed to add class member : Component R45 LM4041CIM3-ADJ
+Add Class Member: Failed to add class member : Component W1 WLPF20
+Add Class Member: Failed to add class member : Component X8 Solder bridge
+Add Class Member: Failed to add class member : Component X9 Solder bridge

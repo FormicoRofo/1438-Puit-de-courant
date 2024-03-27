@@ -1,0 +1,19 @@
+Added Component: Designator=K1(TO220 With WAKEFIELD THERMAL 678-39-C)
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetC1_1 Pin=K1-2
+Added Pin To Net: NetName=NetC2_2 Pin=K1-3
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-3
+Add Pin To Net: Unknown Pin: Pin X8-1
+Add Pin To Net: Unknown Pin: Pin X8-2
+Add Pin To Net: Unknown Pin: Pin X9-1
+Add Pin To Net: Unknown Pin: Pin X9-2
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Added Member To Class: ClassName=Dissipation de puissance Member=Component K1 BD912
+Add Class Member: Failed to add class member : Component K2 LM317T
+Add Class Member: Failed to add class member : Component P2 Sticker
+Add Class Member: Failed to add class member : Component W1 WLPF20
+Add Class Member: Failed to add class member : Component X8 Solder bridge
+Add Class Member: Failed to add class member : Component X9 Solder bridge

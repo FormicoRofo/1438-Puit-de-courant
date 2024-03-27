@@ -1,0 +1,92 @@
+Change Component Footprint: Designator=K9 Old Footprint=D0008A_N New Footprint=D0008A_M
+Change Component Footprint: Designator=K4 Old Footprint=FP-D0008A-IPC_B New Footprint=D0008A_M
+Change Component Footprint: Designator=K10 Old Footprint=ONSC-SOT-23-3-318-08_V New Footprint=SOT90P240X110-3M
+Change Physical Footprint: Designator=C1 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C2 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C3 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C4 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C5 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C6 Old Footprint=CAPC1608X08M New Footprint=CAPC1608X08M
+Change Physical Footprint: Designator=C7 Old Footprint=NIC-CAPA2-6.3X7.7_V New Footprint=NIC-CAPA2-6.3X7.7_V
+Change Physical Footprint: Designator=C8 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C9 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C10 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C11 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C12 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C13 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C14 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=C15 Old Footprint=CAPC2012X08M New Footprint=CAPC2012X08M
+Change Physical Footprint: Designator=F1 Old Footprint=WE_696103201002 New Footprint=WE_696103201002
+Change Physical Footprint: Designator=F2 Old Footprint=DPAK228P991X238-3M New Footprint=DPAK228P991X238-3M
+Change Physical Footprint: Designator=K1 Old Footprint=TO220 WITH WAKEFIELD THERMAL 678-39-C New Footprint=TO220 With WAKEFIELD THERMAL 678-39-C
+Change Physical Footprint: Designator=K2 Old Footprint=TO220 WITH WAKEFIELD THERMAL 678-39-C New Footprint=TO220 With WAKEFIELD THERMAL 678-39-C
+Change Physical Footprint: Designator=K3 Old Footprint=DPAK228P991X238-3M New Footprint=DPAK228P991X238-3M
+Change Physical Footprint: Designator=K5 Old Footprint=SOT90P240X110-3M New Footprint=SOT90P240X110-3M
+Change Physical Footprint: Designator=K6 Old Footprint=SOT90P240X110-3M New Footprint=SOT90P240X110-3M
+Change Physical Footprint: Designator=K7 Old Footprint=SOT90P240X110-3M New Footprint=SOT90P240X110-3M
+Change Physical Footprint: Designator=K8 Old Footprint=SOT90P240X110-3M New Footprint=SOT90P240X110-3M
+Change Physical Footprint: Designator=P1 Old Footprint=DRAW-ETML-CU New Footprint=DRAW-ETML-CU
+Change Physical Footprint: Designator=P2 Old Footprint=Sticker surface chaude New Footprint=Sticker surface chaude
+Change Physical Footprint: Designator=R1 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R3 Old Footprint=NEOHM 1W ROX1S New Footprint=NEOHM 1W ROX1S
+Change Physical Footprint: Designator=R4 Old Footprint=NEOHM 1W ROX1S New Footprint=NEOHM 1W ROX1S
+Change Physical Footprint: Designator=R5 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R6 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R7 Old Footprint=NEOHM 1W ROX1S New Footprint=NEOHM 1W ROX1S
+Change Physical Footprint: Designator=R8 Old Footprint=NEOHM 1W ROX1S New Footprint=NEOHM 1W ROX1S
+Change Physical Footprint: Designator=R9 Old Footprint=NEOHM 1W ROX1S New Footprint=NEOHM 1W ROX1S
+Change Physical Footprint: Designator=R10 Old Footprint=NEOHM 1W ROX1S New Footprint=NEOHM 1W ROX1S
+Change Physical Footprint: Designator=R11 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R12 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R13 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R16 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R17 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R18 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R19 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R20 Old Footprint=FP-6_560-5005_01-4-MFG New Footprint=FP-6_560-5005_01-4-MFG
+Change Physical Footprint: Designator=R21 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R22 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R23 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R24 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R25 Old Footprint=FP-6_560-5005_01-4-MFG New Footprint=FP-6_560-5005_01-4-MFG
+Change Physical Footprint: Designator=R26 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R27 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R29 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R30 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R31 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R33 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R34 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R35 Old Footprint=FP-DO-213AA-MFG New Footprint=FP-DO-213AA-MFG
+Change Physical Footprint: Designator=R36 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R37 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R38 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R39 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R40 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R41 Old Footprint=FP-6_544-5255_01-4-MFG New Footprint=FP-6_544-5255_01-4-MFG
+Change Physical Footprint: Designator=R42 Old Footprint=FP-6_560-5005_01-4-MFG New Footprint=FP-6_560-5005_01-4-MFG
+Change Physical Footprint: Designator=R43 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R44 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=R46 Old Footprint=FP-6_544-5255_01-4-MFG New Footprint=FP-6_544-5255_01-4-MFG
+Change Physical Footprint: Designator=R47 Old Footprint=RESC2012X06M New Footprint=RESC2012X06M
+Change Physical Footprint: Designator=U1 Old Footprint=MECH-PHD320 New Footprint=MECH-PHD320
+Change Physical Footprint: Designator=U2 Old Footprint=MECH-PHD320 New Footprint=MECH-PHD320
+Change Physical Footprint: Designator=U3 Old Footprint=MECH-PHD320 New Footprint=MECH-PHD320
+Change Physical Footprint: Designator=U4 Old Footprint=MECH-PHD320 New Footprint=MECH-PHD320
+Change Physical Footprint: Designator=X1 Old Footprint=SKS_973582101 New Footprint=SKS_973582101
+Change Physical Footprint: Designator=X2 Old Footprint=SKS_973582100 New Footprint=SKS_973582100
+Change Physical Footprint: Designator=X3 Old Footprint=PIN-1x03-2.54 New Footprint=PIN-1x03-2.54
+Change Physical Footprint: Designator=X4 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X5 Old Footprint=PIN-1x02-2.54 New Footprint=PIN-1x02-2.54
+Change Physical Footprint: Designator=X6 Old Footprint=PIN-1x03-2.54 New Footprint=PIN-1x03-2.54
+Change Physical Footprint: Designator=X7 Old Footprint=PIN-1x03-2.54 New Footprint=PIN-1x03-2.54
+Change Physical Footprint: Designator=X8 Old Footprint=Solder brige New Footprint=Solder brige
+Change Physical Footprint: Designator=X9 Old Footprint=Solder brige New Footprint=Solder brige
+Change Physical Footprint: Designator=X10 Old Footprint=Keystone_5001 New Footprint=Keystone_5001
+Change Physical Footprint: Designator=X11 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X12 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X13 Old Footprint=PIN-1x02-2.54 New Footprint=PIN-1x02-2.54
+Change Physical Footprint: Designator=X14 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X15 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X16 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X17 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Physical Footprint: Designator=X18 Old Footprint=Keystone_5002 New Footprint=Keystone_5002

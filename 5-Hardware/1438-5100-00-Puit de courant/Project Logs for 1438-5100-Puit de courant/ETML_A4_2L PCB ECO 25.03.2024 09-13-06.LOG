@@ -1,0 +1,17 @@
+Added Component: Designator=K2(TO220 With WAKEFIELD THERMAL 678-39-C)
+Added Component: Designator=X8(Solder brige)
+Added Component: Designator=X9(Solder brige)
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetC1_1 Pin=K2-2
+Added Pin To Net: NetName=VIN Pin=K2-3
+Added Pin To Net: NetName=NetC5_2 Pin=X8-1
+Added Pin To Net: NetName=NetC15_2 Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X9-1
+Added Pin To Net: NetName=NetK9_1 Pin=X9-2
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Added Member To Class: ClassName=Dissipation de puissance Member=Component K2 LM317T
+Add Class Member: Failed to add class member : Component P2 Sticker
+Add Class Member: Failed to add class member : Component W1 WLPF20
+Added Member To Class: ClassName=Pompe de charge Member=Component X8 Solder bridge
+Added Member To Class: ClassName=Pompe de charge Member=Component X9 Solder bridge

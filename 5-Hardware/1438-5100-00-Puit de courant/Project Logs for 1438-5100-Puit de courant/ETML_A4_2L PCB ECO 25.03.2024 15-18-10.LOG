@@ -1,0 +1,5 @@
+Change Component Comment : Designator=R28 Old Comment=LM4041CIM3-ADJ New Comment=LM4041-ADJ
+Change Component Comment : Designator=R45 Old Comment=LM4041CIM3-ADJ New Comment=LM4041-ADJ
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component W1 WLPF20

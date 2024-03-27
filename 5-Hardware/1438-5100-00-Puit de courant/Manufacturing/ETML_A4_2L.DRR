@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ETML_A4_2L.PcbDoc   27.03.2024  10:53:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ETML_A4_2L.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             9         PTH        147.45mm (5.80inch)
+T2      0.711mm (28mil)                                           Round             32        PTH        336.34mm (13.24inch)
+T3      0.8mm (31mil)                                             Round             12        PTH        135.98mm (5.35inch)
+T4      1mm (39mil)                                               Round             13        PTH        261.58mm (10.30inch)
+T5      1.05mm (41mil)                                            Round             4         PTH        10.27mm (0.40inch)
+T6      1.3mm (51mil)                                             Round             2         PTH        22.50mm (0.89inch)
+T7      1.397mm (55mil)                                           Round             6         PTH        84.09mm (3.31inch)
+T8      1.5mm (59mil)                                             Round             9         PTH        307.56mm (12.11inch)
+T9      2mm (79mil)                                               Round             4         PTH        47.65mm (1.88inch)
+T10     2.667mm (105mil)                                          Round             4         PTH        157.51mm (6.20inch)
+T11     3.2mm (126mil)                                            Round             4         PTH        474.93mm (18.70inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              99
+
+Total Processing Time (hh:mm:ss) : 00:00:00

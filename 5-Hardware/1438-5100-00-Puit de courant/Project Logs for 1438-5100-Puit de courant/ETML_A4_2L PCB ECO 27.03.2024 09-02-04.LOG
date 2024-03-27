@@ -1,0 +1,72 @@
+Change Component DesignItemId : Designator=C7 Old DesignItemId=CMP-0687-00060-1 New DesignItemId=CMP-0687-00060-1_2
+Change Component Footprint: Designator=K9 Old Footprint=D0008A_N New Footprint=D0008A_M
+Change Component Footprint: Designator=K4 Old Footprint=FP-D0008A-IPC_B New Footprint=D0008A_M
+Change Component Footprint: Designator=C7 Old Footprint=NIC-CAPA2-6.3X7.7_V New Footprint=NIC-CAPA2-6.3X7.7_V
+Change Component Footprint: Designator=K10 Old Footprint=ONSC-SOT-23-3-318-08_V New Footprint=SOT90P240X110-3M
+Change Component Comment : Designator=K10 Old Comment=BC857C New Comment=BC857CLT1G
+Change Component Description : Designator=C7 Old Description=Aluminum Electrolytic Capacitor,  220 uF, 16 V, + / - 20%,  6.3 x 7.7 mm D x L New Description=Aluminum Electrolytic Capacitor, UD Series, Low Impedance, 220 uF, 16 V, + / - 20%, -55 to 105 degC, Chip Type, 6.3 x 7.7 mm D x L, Pb-Free, Reel
+Change Component Description : Designator=K10 Old Description=General Purpose Transistor, PNP Silicon, 3-Pin SOT-23, Pb-Free, Tape and Reel, BC857CLT1G New Description=General Purpose Transistor, PNP Silicon, 3-Pin SOT-23, Pb-Free, Tape and Reel
+Change Component Description : Designator=F2 Old Description=N channel Mosfet, IRLR7843, high current New Description=N channel Mosfet
+Change Component Description : Designator=K3 Old Description=N channel Mosfet, IRLR7843, high current New Description=N channel Mosfet
+Change component parameters: Designator = "C7" ("C7"); Footprint = "NIC-CAPA2-6.3X7.7_V"; UniqueID = "\QIHDFQHJ\KUZQDHQC" ("\QIHDFQHJ\KUZQDHQC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.nichicon.co.jp/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "08/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "6.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Endurance Time"; Value = "2000 h"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "0.34 Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.7 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Diameter 6.3 mm, Height 7.7 mm, Pitch 5.4 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPAE-D6.3H7.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Dia382mm Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "UUD1C221MCL1GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Capacitance"; Value = "220 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Ripple Current (at 100kHz)"; Value = "280 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance Rated Capacitance"; Value = "-20 to 20%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2" ("F2"); Footprint = "DPAK228P991X238-3M"; UniqueID = "\IDRCFRBV\KCPTMNMF" ("\IDRCFRBV\KCPTMNMF")
+Change component parameters: Designator = "K3" ("K3"); Footprint = "DPAK228P991X238-3M"; UniqueID = "\IDRCFRBV\TOCCWGHZ" ("\IDRCFRBV\TOCCWGHZ")
+Change component parameters: Designator = "K10" ("K10"); Footprint = "ONSC-SOT-23-3-318-08_V"; UniqueID = "\QIHDFQHJ\BSFLBCNG" ("\QIHDFQHJ\BSFLBCNG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/BC856ALT1-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/318-08.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "fT Min (MHz)"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IC Continuous (A)"; Value = "-0.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23-3-318-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. AP, 11/2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BC857CLT1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "PNP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R35" ("R35"); Footprint = "FP-DO-213AA-MFG"; UniqueID = "\QIHDFQHJ\JMUHTZHC" ("\QIHDFQHJ\JMUHTZHC")
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "175°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-65°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "16640727"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Current"; Value = "5mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "7%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Tolerance"; Value = "7%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Zener Voltage"; Value = "5.6V"; VariantName = "[No Variations]"
+Added Component: Designator=E1(Designator)
+Added Component: Designator=E2(Designator)
+Added Member To Class: ClassName=Dissipation de puissance Member=Component E1 WAKEFIELD THERMAL 678-39-C
+Added Member To Class: ClassName=Dissipation de puissance Member=Component E2 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component W1 WLPF20

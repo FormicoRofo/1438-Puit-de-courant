@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\alyvasseur\Education Vaud\ETML_FLO-22-24_Teams - Vasseur\DAT\1438\5-Hardware\1438-5100-Puit de courant\ETML_A4_2L.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR|Scope=Board|Minimum=5.32
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance-xPP-xTP-xTT|Scope=Board|Minimum=5.91

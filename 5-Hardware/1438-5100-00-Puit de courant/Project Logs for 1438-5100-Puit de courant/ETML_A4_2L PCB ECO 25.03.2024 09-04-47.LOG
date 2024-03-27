@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=X10 Old Footprint=Keystone_5001 New Footprint=Keystone_5001
+Change Component Footprint: Designator=X4 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Footprint: Designator=X11 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Footprint: Designator=X12 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Footprint: Designator=X14 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Footprint: Designator=X15 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Footprint: Designator=X16 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Footprint: Footprint Not Found Keystone_5002
+Change Footprint: Footprint Not Found Keystone_5002
+Change Component Library : Designator=X4 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X10 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X11 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X12 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X14 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X15 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X16 Old Library=ETML-ES New Library=Custom components.SchLib
+Change Component Library : Designator=X17 Old Library=ETML-ES New Library=Simulation Generic Components.IntLib
+Change Component Library : Designator=X18 Old Library=ETML-ES New Library=Simulation Generic Components.IntLib
+Change Managed Component Library Link : Designator=X4 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X10 Old VaultGUID= New VaultGUID= Old ItemGUID=31733E02-9924-46CA-A1E8-9B129F8D1110 New ItemGUID= Old RevisionGUID=EDE1C243-B10B-4A68-A31F-F656827C714C New RevisionGUID=
+Change Managed Component Library Link : Designator=X11 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X12 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X14 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X15 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X16 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X17 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Change Managed Component Library Link : Designator=X18 Old VaultGUID= New VaultGUID= Old ItemGUID=92220DC5-E489-4DC2-8ECF-4B6688E199BD New ItemGUID= Old RevisionGUID=2744D5BC-0AFA-4DD1-8FF4-42B091975C71 New RevisionGUID=
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-3
+Add Pin To Net: Unknown Pin: Pin X8-1
+Add Pin To Net: Unknown Pin: Pin X8-2
+Add Pin To Net: Unknown Pin: Pin X9-1
+Add Pin To Net: Unknown Pin: Pin X9-2
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component K2 LM317T
+Add Class Member: Failed to add class member : Component P2 Sticker
+Add Class Member: Failed to add class member : Component W1 WLPF20
+Add Class Member: Failed to add class member : Component X8 Solder bridge
+Add Class Member: Failed to add class member : Component X9 Solder bridge

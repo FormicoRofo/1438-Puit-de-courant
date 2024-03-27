@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=X17 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Footprint: Designator=X18 Old Footprint=Keystone_5002 New Footprint=Keystone_5002
+Change Component Library : Designator=X17 Old Library=Simulation Generic Components.IntLib New Library=Custom components.SchLib
+Change Component Library : Designator=X18 Old Library=Simulation Generic Components.IntLib New Library=Custom components.SchLib
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-3
+Add Pin To Net: Unknown Pin: Pin X8-1
+Add Pin To Net: Unknown Pin: Pin X8-2
+Add Pin To Net: Unknown Pin: Pin X9-1
+Add Pin To Net: Unknown Pin: Pin X9-2
+Add Class Member: Failed to add class member : Component E1 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component E2 WAKEFIELD THERMAL 678-39-C
+Add Class Member: Failed to add class member : Component K2 LM317T
+Add Class Member: Failed to add class member : Component P2 Sticker
+Add Class Member: Failed to add class member : Component W1 WLPF20
+Add Class Member: Failed to add class member : Component X8 Solder bridge
+Add Class Member: Failed to add class member : Component X9 Solder bridge

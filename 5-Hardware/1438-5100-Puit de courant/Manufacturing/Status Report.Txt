@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ETML_A4_2L.PcbDoc]
+   Generated File[ETML_A4_2L.GTO]
+   Generated File[ETML_A4_2L.GTP]
+   Generated File[ETML_A4_2L.GTS]
+   Generated File[ETML_A4_2L.GTL]
+   Generated File[ETML_A4_2L.GBL]
+   Generated File[ETML_A4_2L.GBS]
+   Generated File[ETML_A4_2L.GBO]
+   Generated File[ETML_A4_2L.GM27]
+   Generated File[ETML_A4_2L.GD1]
+   Generated File[ETML_A4_2L.RUL]
+   Generated File[ETML_A4_2L.EXTREP]
+   Generated File[ETML_A4_2L.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:13:40 On 27.03.2024

@@ -414,81 +414,141 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for 1438-5100-Puit de courant\Design Rule Check - ETML_A4_2L.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Manufacturing\ETML_A4_2L.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Manufacturing\ETML_A4_2L.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Manufacturing\ETML_A4_2L.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Manufacturing\ETML_A4_2L.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Manufacturing\ETML_A4_2L.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Manufacturing\ETML_A4_2L.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Manufacturing\ETML_A4_2L.GM27
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Manufacturing\ETML_A4_2L.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Manufacturing\ETML_A4_2L.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Manufacturing\ETML_A4_2L.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Manufacturing\ETML_A4_2L.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Manufacturing\ETML_A4_2L.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Manufacturing\ETML_A4_2L.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Manufacturing\ETML_A4_2L.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Manufacturing\ETML_A4_2L.TXT
+DItemRevisionGUID=
+
 [Parameter1]
-Name=AsyNumber
-Value=1438.5000.00
+Name=SchTitle
+Value=Puit de courant
 
 [Parameter2]
-Name=BomCheckedBy
-Value=-
+Name=SchNumber
+Value=1438.5200.00
 
 [Parameter3]
-Name=BomCheckedDate
-Value=-
+Name=SchDrawnDate
+Value=2024-03-08
 
 [Parameter4]
-Name=BomDrawnBy
+Name=SchDrawnBy
 Value=AVR
 
 [Parameter5]
-Name=BomDrawnDate
-Value=2024-03-08
+Name=SchCheckedDate
+Value=-
 
 [Parameter6]
-Name=BomNumber
-Value=1438.5600.00
+Name=SchCheckedBy
+Value=-
 
 [Parameter7]
-Name=BomTitle
+Name=PcbTitle
 Value=Puit de courant
 
 [Parameter8]
-Name=PcbCheckedBy
-Value=-
+Name=PcbNumber
+Value=1438.5100.00
 
 [Parameter9]
-Name=PcbCheckedDate
-Value=-
+Name=PcbDrawnDate
+Value=2024-03-25
 
 [Parameter10]
 Name=PcbDrawnBy
 Value=AVR
 
 [Parameter11]
-Name=PcbDrawnDate
-Value=YYYY-MM-DD
+Name=PcbCheckedDate
+Value=-
 
 [Parameter12]
-Name=PcbNumber
-Value=1438.5100.00
+Name=PcbCheckedBy
+Value=-
 
 [Parameter13]
-Name=PcbTitle
+Name=BomTitle
 Value=Puit de courant
 
 [Parameter14]
-Name=SchCheckedBy
-Value=-
+Name=BomNumber
+Value=1438.5600.00
 
 [Parameter15]
-Name=SchCheckedDate
-Value=-
+Name=BomDrawnDate
+Value=2024-03-08
 
 [Parameter16]
-Name=SchDrawnBy
+Name=BomDrawnBy
 Value=AVR
 
 [Parameter17]
-Name=SchDrawnDate
-Value=2024-03-08
+Name=BomCheckedDate
+Value=-
 
 [Parameter18]
-Name=SchNumber
-Value=1438.5200.00
+Name=BomCheckedBy
+Value=-
 
 [Parameter19]
-Name=SchTitle
-Value=Puit de courant
+Name=AsyNumber
+Value=1438.5000.00
 
 [Configuration1]
 Name=Sources

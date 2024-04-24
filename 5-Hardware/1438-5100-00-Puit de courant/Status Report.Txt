@@ -1,14 +1,14 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 15:27:21 On 22.04.2024
+Start Output Generation At 09:22:31 On 24.04.2024
 
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [ETML_A4_2L.PcbDoc]
-   Generated File[ETML_A4_2L.step]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [1438-5100-00-Puit de courant.PrjPcb]
+   Generated File[//eduvaud.sharepoint.com/sites/ETML_FLO-22-24_Teams/Documents partages/Partages/Vasseur/DAT/1438/5-Hardware/1438-5100-00-Puit de courant/1438-5100-00-Puit de courant_BOM.xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 15:27:30 On 22.04.2024
+Finished Output Generation At 09:22:37 On 24.04.2024

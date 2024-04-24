@@ -1,0 +1,25 @@
+Change Component Comment : Designator=R24 Old Comment=150k New Comment=100k
+Change Component Comment : Designator=R25 Old Comment=LL4448 New Comment=LL4448-GS08
+Change Managed Component Library Link : Designator=R24 Old VaultGUID=A92EF6BC-7A6C-412F-B87B-65195FA9B694 New VaultGUID=A92EF6BC-7A6C-412F-B87B-65195FA9B694 Old ItemGUID=33214281-E100-4366-8EF2-5053BE7FE9FC New ItemGUID=23045E9A-0196-4E2C-B885-8700F88D2B55 Old RevisionGUID=8B542A25-0581-4284-9E98-54B017B6775E New RevisionGUID=FECDAB61-E7EF-417E-B2A8-2A0BF0227370
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESC2012X06M"; UniqueID = "\QIHDFQHJ\SZKGSMAZ" ("\QIHDFQHJ\SZKGSMAZ")
+Change component parameters (AddParameter): Name = "Category"; Value = "Passives"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "IsStocked"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Number"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PN"; Value = "PN-903408"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubCategory"; Value = "Resistances couche epaisse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "ETML"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "FAB.0805_R 100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Price 1"; Value = "0.0200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureCoeff"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TemperatureRange"; Value = "-55°C to 155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Dissipation de puissance Member=Component E1 WAKEFIELD THERMAL 678-39-C
+Added Member To Class: ClassName=Dissipation de puissance Member=Component E2 WAKEFIELD THERMAL 678-39-C
+Added Member To Class: ClassName=Timer 555 Member=Component K4 TLC555CDR
+Add Class Member: Failed to add class member : Component W1 WLPF20
